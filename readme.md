@@ -44,18 +44,6 @@ Before getting started, make sure you have the following installed:
     pip install -r requirements.txt
     ```
 
-## Usage
-
-1. Run the development server:
-
-    ```shell
-    python manage.py runserver
-    ```
-
-2. Open your web browser and navigate to `http://localhost:8000/api/` to access the API endpoints.
-
-
-
 Now you can send requests to your API via Postman, your app or do a GETrequests from your browser, examples:
 
 ```
